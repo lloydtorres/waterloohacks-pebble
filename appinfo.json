@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lloyd.torres95@gmail.com",
+    "longName": "waterloohacks",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "waterloohacks",
+    "uuid": "1d1b1725-8ca0-4e63-b3c2-bbb37985ffdd",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
